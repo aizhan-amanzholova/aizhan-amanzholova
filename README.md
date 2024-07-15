@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aizhan-amanzholova
-- 👀 I’m interested in product management and business analysis
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on interesting projects in software development
+- 👀 I’m interested in project management and data analysis
+- 🌱 I’m currently learning how to code on python
 - 📫 How to reach me: amanzholova.aizh@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an engineering thats speaks 4 languages
